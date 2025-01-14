@@ -1,0 +1,10 @@
+bofy {
+    margin: auto;
+}
+
+input {
+    font-size: 12px;
+}
+::placeholder {
+    font-size: 12px;
+}
